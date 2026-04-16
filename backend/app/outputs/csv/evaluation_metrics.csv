@@ -1,0 +1,9 @@
+Metric,Value
+total_consumers_processed,300.0
+pca_components_retained,8.0
+silhouette_score,0.19048715231309565
+davies_bouldin_index,1.80073068841752
+calinski_harabasz_score,79.28102822257182
+final_phase_count_A,88.0
+final_phase_count_B,116.0
+final_phase_count_C,96.0
